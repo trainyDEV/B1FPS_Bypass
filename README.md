@@ -12,3 +12,5 @@ Usage:
 
 Note:
 - Your FPS will automatically cap to your refresh rate anyway (idk vsync bullshit)
+- FPS interval you can set to is 60-600 on the release branches.
+- This tool directly modifies memory while you're ingame, it shouldn't be bannable but use at your own risk.
